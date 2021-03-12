@@ -1,0 +1,3 @@
+[submodule "Themes/hugo-orbit-theme"]
+    path = themes/hugo-orbit-theme
+    url = "https://github.com/netravler/pheintz2.git"
