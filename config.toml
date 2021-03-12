@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = ""
 languageCode = "en-us"
 title = "Paul Heintz II Resume"
 theme = "hugo-orbit-theme"
@@ -184,7 +184,7 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Python & Django"
+        skill = "Python"
         level = "98%"
                 
         [[params.skills.list]]
