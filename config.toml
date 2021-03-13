@@ -78,11 +78,6 @@ disable404 = true
         college = "University of Missouri - Kansas City"
         dates = "1981 - 1983"
 
-        [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
-
     # Languages section
     [params.language]
         enable = true
