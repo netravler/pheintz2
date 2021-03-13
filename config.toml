@@ -74,9 +74,9 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        college = "University of London"
-        dates = "2006 - 2010"
+        degree = "BS in Computer Science"
+        college = "University of Missouri - Kansas City"
+        dates = "1981 - 1983"
 
         [[params.education.list]]
         degree = "BSc in Applied Mathematics"
