@@ -53,8 +53,8 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//portfoliosite.com"
-        title = "portfoliosite.com"
+        url = "//pheintz2.com"
+        title = "pheintz2.com"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -123,10 +123,16 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Lead Developer"
-        dates = "2015 - Present"
-        company = "Startup Hubs, San Francisco"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.\n\n Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+        position = "DevOps Engineer, Senior IS Operations"
+        dates = "2016 - Present"
+        company = "Jack Henry & Associates, Lenexa Kansas"
+        details = "It's been a long strange trip in the DevOps/Release worlds over the last 10 years.  
+
+I started out creating and executing direct deployment scripting to hundreds of servers.  Combining Custom stubs as well as complete builds.  Then transitioned to deploy by service model which allowed for referencing the type as an endpoint.  Now with the transition to Octopus/Cloud, it is even more challenging but at the same time rewarding. 
+
+No longer limited by code but freed to also establish new environments on the fly.
+
+This is all paramount in a world where a solution lifespan is measured in months not years."
 
         [[params.jobs.list]]
         position = "Senior Software Engineer"
