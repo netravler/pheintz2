@@ -132,22 +132,7 @@ disable404 = true
         position = "Programmer Advanced"
         dates = "2006 - 2009"
         company = "Jack Henry & Associates, Lenexa Kansas"
-        details = "• Develop scripts utilizing Selenium for testing Software deployment.
-• PowerShell script development for TFS/Software deployments
-• Create/maintain deployment tools for Software deployment and testing, via C#/Winform.
-• Provide technical support for all departments when needed.
-• Maintain currency of all Jack Henry & Associates interrelated products.
-
-Areas of Experience:
-
-• .Net 2-4.5 development C#, VB in Web and Winform
-• Coldfusion web development
-• Advance MSSql development and deployment
-• XML/Soap encapsulation via the aforementioned technologies
-• TFS Source code management and deployment
-• RPG/400 development in a banking environment
-• PowerOn (symitar) development. Customization of web interface and Electronic statements
-• Synergy developer for conversion activities and added functionality"
+        details = "Develop scripts utilizing Selenium for testing Software deployment. PowerShell script development for TFS/Software deployments. Create/maintain deployment tools for Software deployment and testing, via C#/Winform. Provide technical support for all departments when needed. Maintain currency of all Jack Henry & Associates interrelated products. "
 
         [[params.jobs.list]]
         position = "UI Developer"
