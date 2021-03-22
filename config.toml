@@ -97,14 +97,16 @@ disable404 = true
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "Ham Radio"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Astrophotography"
 
         [[params.interests.list]]
-        interest = "Cooking"
+        interest = "Computers"
 
+        [[params.interests.list]]
+        interest = "Commercial radio"
 # Main body sections
 
     # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
