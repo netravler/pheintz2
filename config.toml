@@ -194,7 +194,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "HTML5 & CSS"
-        level = "75%"
+        level = "95%"
 
     # Footer section
 
