@@ -182,31 +182,19 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Python"
-        level = "98%"
+        level = "80%"
                 
         [[params.skills.list]]
         skill = "Javascript & jQuery"
-        level = "98%"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "C#/.NET"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
-
-        [[params.skills.list]]
         skill = "HTML5 & CSS"
-        level = "95%"
-
-        [[params.skills.list]]
-        skill = "Ruby on Rails"
         level = "75%"
-
-        [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
 
     # Footer section
 
