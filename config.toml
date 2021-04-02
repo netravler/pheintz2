@@ -116,7 +116,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Looking for a new position.  Would want to work remotely with Azure/Octopus with some light web-centric development.  Something fun would be nice..."
+        summary = "**Looking for a new position.  Would want to work remotely with Azure/Octopus with some light web-centric development.  Something fun would be nice...**"
 
     # Experiences section
     [params.experiences]
