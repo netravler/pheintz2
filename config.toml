@@ -116,7 +116,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "**Summarise** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+        summary = "**Looking for a new position.  Would want to work remotely with Azure/Octopus with some light web-centric development.  Something fun would be nice..."
 
     # Experiences section
     [params.experiences]
@@ -135,13 +135,7 @@ disable404 = true
         dates = "2006 - 2009"
         company = "Jack Henry & Associates, Lenexa Kansas"
         details = "Develop scripts utilizing Selenium for testing Software deployment. PowerShell script development for TFS/Software deployments. Create/maintain deployment tools for Software deployment and testing, via C#/Winform. Provide technical support for all departments when needed. Maintain currency of all Jack Henry & Associates interrelated products. "
-
-        [[params.jobs.list]]
-        position = "UI Developer"
-        dates = "2012 - 2014"
-        company = "Amazon, London"
-        details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-
+        
     # Projects section
     [params.projects]
         enable = true
@@ -182,31 +176,31 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Python"
-        level = "98%"
+        level = "80%"
                 
         [[params.skills.list]]
         skill = "Javascript & jQuery"
-        level = "98%"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "C#/.NET"
         level = "98%"
 
         [[params.skills.list]]
-        skill = "Angular"
-        level = "95%"
-
-        [[params.skills.list]]
         skill = "HTML5 & CSS"
         level = "95%"
 
         [[params.skills.list]]
-        skill = "Ruby on Rails"
+        skill = "Terraform"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Sketch & Photoshop"
-        level = "60%"
+        skill = "Cisco DevNet"
+        level = "75%"
+
+        [[params.skills.list]]
+        skill = "PowerShell"
+        level = "95%"
 
     # Footer section
 
